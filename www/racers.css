@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "Kimberley";
+  src: url("Roboto-Condensed.ttf")
+}
+label{
+  font-weight:100;
+}
+
+
+
+body{
+  font-family:Kimberley;
+  background-color: #ffcc00;
+  font-size:13px;
+}
+
+.skin-blue .main-header .logo{
+  font-family:Kimberley;
+   background-color: white;
+   color: #ffcc00;
+   text-align: left;
+}
+.skin-blue .main-header .logo:hover{
+  font-family:Kimberley;
+   background-color: white;
+   color: #ffcc00;
+   text-align: left;
+}
+section.sidebar .shiny-input-container{
+  color:black;
+  padding-top: 2px;
+}
+
+section.sidebar .shiny-input-container{
+  background-color: white;
+}
+
+.content-wrapper, .right-side {
+  background-color:white;
+}
+.skin-blue .left-side, .skin-blue .main-sidebar, .skin-blue .wrapper{
+  background-color: white; 
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover{
+  background-color: white;
+}
+.skin-blue .main-header .navbar .sidebar-toggle{
+  color: black;
+}
+.skin-blue .main-header .navbar{
+   background-color: white;
+}
+
+
+section.sidebar .shiny-bound-input.action-button, section.sidebar .shiny-bound-input.action-link{
+  width: 200px;
+      background-color: white;
+
+  
+}
+.skin-blue .sidebar a {
+      margin-left: 15px;
+    width: 200px;
+    background-color: white;
+    color: black;
+}
